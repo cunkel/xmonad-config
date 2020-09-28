@@ -1,0 +1,10 @@
+xmonad
+xmonad.hi
+xmonad.o
+xmonad-*-linux
+xmonad.errors
+xmonad.state
+
+debug.log
+
+*~
